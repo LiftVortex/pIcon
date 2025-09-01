@@ -1,0 +1,8 @@
+License Sources (for reference/canonical texts)
+- Pillow LICENSE: https://github.com/python-pillow/Pillow/blob/main/LICENSE
+- sv_ttk MIT: https://github.com/rdbende/Sun-Valley-ttk-theme/blob/master/LICENSE
+- pywinstyles CC0: https://github.com/Akascape/py-window-styles/blob/main/LICENSE
+- tkinterdnd2 MIT: https://github.com/pmgagne/tkinterdnd2/blob/master/LICENSE  (fork Eliav2: https://github.com/Eliav2/tkinterdnd2)
+- Python PSF License: https://docs.python.org/3/license.html
+- Tcl/Tk license.terms: https://www.tcl-lang.org/software/tcltk/license.html
+- pi-heif: https://pypi.org/project/pi-heif/ (MIT)
