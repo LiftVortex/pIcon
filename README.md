@@ -1,4 +1,4 @@
-# pIcon (Windows 11–style, Tkinter)
+# pIcon
 
 A Windows desktop app that converts images (PNG/JPG/GIF/WEBP/HEIC/HEIF) into **multi-resolution `.ico`** files. It features a live preview with **Pad/Crop/Stretch** fit modes, size **chips** (16–256) plus custom sizes, a refined Win11-style UI (rounded cards, Mica/Acrylic backdrop), **dark/light themes**, and a simple CLI.
 
