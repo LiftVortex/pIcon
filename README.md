@@ -2,6 +2,8 @@
 
 A Windows desktop app that converts images (PNG/JPG/GIF/WEBP/HEIC/HEIF) into **multi-resolution `.ico`** files. It features a live preview with **Pad/Crop/Stretch** fit modes, size **chips** (16–256) plus custom sizes, a refined Win11-style UI (rounded cards, Mica/Acrylic backdrop), **dark/light themes**, and a simple CLI.
 
+<img width="1208" height="821" alt="pIcon-UI" src="https://github.com/user-attachments/assets/aebf9e17-b078-4b84-8157-4f53b8000284" />
+
 ---
 
 ## Features
